@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_10_number_2</string>
+    <string name="textET">Введите оценку:\n 1, 2, 3, 4, 5</string>
+    <string name="generateRandom">Генератор случайных чисел</string>
+    <string name="title_change_color">Цветовое качество</string>
+    <string name="title_exit">Выход из приложения</string>
+    <string name="toolbar_title">Оценка за урок</string>
+</resources>
